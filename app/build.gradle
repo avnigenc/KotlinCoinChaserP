@@ -5,7 +5,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "ltd.leotech.cryptotracking"
+        applicationId "zig.avnigenc.cryptotracking"
         minSdkVersion 21
         targetSdkVersion 26
         versionCode 1
